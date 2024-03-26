@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 //use reference.
 //Auto generate account number and customer id.
-//Check number of accounts.XX
+//Check number of accounts.
 public class BankSystem {
     
     public static boolean checkCustomerId(ArrayList<Customer> customerArray, long cid){
